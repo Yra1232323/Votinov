@@ -1,0 +1,65 @@
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\kyrs.exe.config
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\kyrs.exe
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\kyrs.pdb
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\MySql.Data.dll
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\System.Memory.dll
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\System.Buffers.dll
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\bin\Debug\MySql.Data.xml
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.csproj.AssemblyReference.cache
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.Form1.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.Properties.Resources.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.csproj.GenerateResource.cache
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.csproj.CoreCompileInputs.cache
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.csproj.CopyComplete
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.exe
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.pdb
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.LoginForm.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.AdminForm.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.ServicesForm.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.EmployeesForm.resources
+C:\Users\votin\Desktop\Учеба\kyrs\kyrs\obj\Debug\kyrs.ClientsForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\kyrs.exe.config
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\kyrs.exe
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\kyrs.pdb
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\System.Memory.dll
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\System.Buffers.dll
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\bin\Debug\MySql.Data.xml
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.csproj.AssemblyReference.cache
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.ClientsForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.EmployeesForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.Form1.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.LoginForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.AdminForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.Properties.Resources.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.ServicesForm.resources
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.csproj.GenerateResource.cache
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.csproj.CoreCompileInputs.cache
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.csproj.CopyComplete
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.exe
+C:\Users\Huut5\OneDrive\Рабочий стол\kyrs\kyrs\obj\Debug\kyrs.pdb
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\kyrs.exe.config
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\kyrs.exe
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\kyrs.pdb
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\MySql.Data.dll
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\System.Memory.dll
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\System.Buffers.dll
+C:\Users\votin\Desktop\kyrs\kyrs\bin\Debug\MySql.Data.xml
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.csproj.AssemblyReference.cache
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.ClientsForm.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.EmployeesForm.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.Form1.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.LoginForm.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.AdminForm.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.Properties.Resources.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.ServicesForm.resources
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.csproj.GenerateResource.cache
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.csproj.CoreCompileInputs.cache
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.csproj.CopyComplete
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.exe
+C:\Users\votin\Desktop\kyrs\kyrs\obj\Debug\kyrs.pdb
